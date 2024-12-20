@@ -1,7 +1,7 @@
 # AI_Project
 ## Team Members:
- <h3 style="color: orange;">Bahaa Mahmoud Helmy</h3>  
- <span style="color: green;">Waseam Nashat Samir</span>  
- <span style="color: blue;">Selvana Atef Kadry Zekri</span>  
- <span style="color: red;">Abdalla Shreif Mohammed</span>  
- <span style="color: purple;">Maram Mohamed Ahmed</span>
+<h4 style="color: orange;">Bahaa Mahmoud Helmy</h4>  
+<h4 style="color: green;">Waseam Nashat Samir</h4>  
+<h4 style="color: blue;">Selvana Atef Kadry Zekri</h4>  
+<h4 style="color: red;">Abdalla Shreif Mohammed</h4>  
+<h4 style="color: purple;">Maram Mohamed Ahmed</h4>
